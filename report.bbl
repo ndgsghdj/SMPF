@@ -1,0 +1,110 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{becerra}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dd5a1578072ec1d94a684f771ff7b063}{%
+           family={Becerra},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Harvard University}%
+      }
+      \strng{namehash}{dd5a1578072ec1d94a684f771ff7b063}
+      \strng{fullhash}{dd5a1578072ec1d94a684f771ff7b063}
+      \strng{bibnamehash}{dd5a1578072ec1d94a684f771ff7b063}
+      \strng{authorbibnamehash}{dd5a1578072ec1d94a684f771ff7b063}
+      \strng{authornamehash}{dd5a1578072ec1d94a684f771ff7b063}
+      \strng{authorfullhash}{dd5a1578072ec1d94a684f771ff7b063}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Algorithmic Approaches to Playing Minesweeper}
+      \field{type}{mathesis}
+      \field{year}{2015}
+    \endentry
+    \entry{minesweeper}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f29b522293f2591cc02e23e99a278ce7}{%
+           family={Donner},
+           familyi={D\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f039aa2432415b38b5bb024a7b78cb26}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Curt},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8b4c6abb4c040c885e73a15580c29dab}
+      \strng{fullhash}{8b4c6abb4c040c885e73a15580c29dab}
+      \strng{bibnamehash}{8b4c6abb4c040c885e73a15580c29dab}
+      \strng{authorbibnamehash}{8b4c6abb4c040c885e73a15580c29dab}
+      \strng{authornamehash}{8b4c6abb4c040c885e73a15580c29dab}
+      \strng{authorfullhash}{8b4c6abb4c040c885e73a15580c29dab}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://archive.org/details/win3_Mineswee}}
+      \field{title}{Minesweeper}
+      \field{year}{2016}
+    \endentry
+    \entry{torusminesweeper}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=81fce5c797fc746fad1fe990b8588081}{%
+           family={Gottlieb},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelimb Z.\bibnamedelimi R.},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{81fce5c797fc746fad1fe990b8588081}
+      \strng{fullhash}{81fce5c797fc746fad1fe990b8588081}
+      \strng{bibnamehash}{81fce5c797fc746fad1fe990b8588081}
+      \strng{authorbibnamehash}{81fce5c797fc746fad1fe990b8588081}
+      \strng{authornamehash}{81fce5c797fc746fad1fe990b8588081}
+      \strng{authorfullhash}{81fce5c797fc746fad1fe990b8588081}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.mzrg.com/js/mine/torus.html}}
+      \field{title}{Torus Minesweeper}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

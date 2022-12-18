@@ -1,9 +1,31 @@
 \documentclass{article}
-\title{An Analysis of Triangular Minesweeper}
+\usepackage{hyperref}
+\usepackage[style=apa, backend=biber]{biblatex}
+\addbibresource{refs.bib}
+\title{A Study of Triangular Minesweeper}
 \author{Sean Chua, Lee Hua Jay, Nikola Winata}
 \begin{document}
 
 \maketitle
 
 \section{Abstract}
+
+\newpage
+\section{Introduction}
+Minesweeper is a puzzle video game genre based on logical thinking and guessing that is generally played on personal computers. 
+The game features a grid of clickable tiles. Revealing a tile would either show it to 
+be a mine, or a safe tile. \parencite{minesweeper} In the case of the latter, the revealed tile would then show the number of tiles it is adjacent to,
+diagonally, left and right, or up and down.
+In order to win, players must click on all safe tiles without clicking on mines. \\\\
+Most variations of the game use a grid of squares to represent this tiles, where the squares are tessellated to form
+the overall board. Some examples are the original Minesweeper game, which features the classic grid of squares,
+as well as Torus Minesweeper \parencite{torusminesweeper}, a variant of the game in which the grid of squares is mapped onto the surface of a torus,
+hence wrapping around, ensuring that the ends of the grid are adjacent to each other. \\\\
+Several pieces of mathematical research has been done on the area of Minesweeper. Becerra \parencite{becerra} explored algorithmic approaches
+to playing Minesweeper through the implementation of the Single Point approach and the Constraint Satisfaction Problem model for Minesweeper.
+He then went on to present two novel implementations of both of the approaches called the double set single point and connected components CSP. 
+Becerra then concludes that the coupled subsets CSP model performs the best overall due to its refined probabilistic guessing and 
+its ability to find deterministic moves. In 2009, German and Lakshtanov 
+
+\printbibliography
 \end{document}
