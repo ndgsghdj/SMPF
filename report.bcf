@@ -2814,6 +2814,7 @@
     <bcf:citekey order="1">minesweeper</bcf:citekey>
     <bcf:citekey order="2">torusminesweeper</bcf:citekey>
     <bcf:citekey order="3">becerra</bcf:citekey>
+    <bcf:citekey order="4">laplacian</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

@@ -80,6 +80,40 @@
       \field{title}{Minesweeper}
       \field{year}{2016}
     \endentry
+    \entry{laplacian}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cce1d5b2656c7e33366cdbcb6958293e}{%
+           family={German},
+           familyi={G\bibinitperiod},
+           given={Oleg},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18a35323b583546be7363b90918d931d}{%
+           family={Lakshtanov},
+           familyi={L\bibinitperiod},
+           given={Evgeny},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3915287e7d96d05c96212526467a30fd}
+      \strng{fullhash}{3915287e7d96d05c96212526467a30fd}
+      \strng{bibnamehash}{3915287e7d96d05c96212526467a30fd}
+      \strng{authorbibnamehash}{3915287e7d96d05c96212526467a30fd}
+      \strng{authornamehash}{3915287e7d96d05c96212526467a30fd}
+      \strng{authorfullhash}{3915287e7d96d05c96212526467a30fd}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applicable Analysis}
+      \field{number}{12}
+      \field{title}{"Minesweeper" and spectrum of discrete Laplacians}
+      \field{volume}{89}
+      \field{year}{2009}
+    \endentry
     \entry{torusminesweeper}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=81fce5c797fc746fad1fe990b8588081}{%

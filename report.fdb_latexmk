@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber report"] 1671263052 "report.bcf" "report.bbl" "report" 1671268484
+["biber report"] 1672653974 "report.bcf" "report.bbl" "report" 1672654234
   "refs.bib" 1671262990 837 3e50b2e3ae64c4de110c190211f3a0a8 ""
-  "report.bcf" 1671268484 124164 0cc8d69d4e839d7c38afa5b00f3d2c11 "pdflatex"
+  "report.bcf" 1672654234 124215 eba19fffe53c501766eb7728f1bcd2bb "pdflatex"
   (generated)
-  "report.bbl"
   "report.blg"
-["pdflatex"] 1671268483 "/Users/nikolawinata/Documents/SMPF/report.tex" "/Users/nikolawinata/Documents/SMPF/report.pdf" "report" 1671268484
-  "/Users/nikolawinata/Documents/SMPF/report.aux" 1671268484 2024 141461248f83d51f20da636cab157f54 ""
-  "/Users/nikolawinata/Documents/SMPF/report.tex" 1671268483 1924 1ed3afba437278b110b8afc9f9a89577 ""
+  "report.bbl"
+["pdflatex"] 1672654233 "/Users/nikolawinata/Documents/SMPF/report.tex" "/Users/nikolawinata/Documents/SMPF/report.pdf" "report" 1672654234
+  "/Users/nikolawinata/Documents/SMPF/report.aux" 1672654234 2188 ddf3e2c254c5710f5ff36fbd50d6003a ""
+  "/Users/nikolawinata/Documents/SMPF/report.tex" 1672654233 2203 79dcc7c24bd646d4daa438af5ef7dee3 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -86,17 +86,17 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1636790468 2724740 e9d5693168f43ddd745dbebcfee31810 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "report.aux" 1671268484 2024 141461248f83d51f20da636cab157f54 "pdflatex"
-  "report.bbl" 1671263054 4160 0179e9fdc16b594c8f15f7663857972c "biber report"
-  "report.out" 1671268484 186 d38d0cddc19905ec0aa798d851d2dead "pdflatex"
-  "report.run.xml" 1671268484 2435 cf7bf51cdbc8becfaa8e8728ed877ff8 "pdflatex"
-  "report.tex" 1671268483 1924 1ed3afba437278b110b8afc9f9a89577 ""
+  "report.aux" 1672654234 2188 ddf3e2c254c5710f5ff36fbd50d6003a "pdflatex"
+  "report.bbl" 1672653976 5528 7abe63a31d2c273cfe5bb67a7f942e2b "biber report"
+  "report.out" 1672654234 186 d38d0cddc19905ec0aa798d851d2dead "pdflatex"
+  "report.run.xml" 1672654234 2435 cf7bf51cdbc8becfaa8e8728ed877ff8 "pdflatex"
+  "report.tex" 1672654233 2203 79dcc7c24bd646d4daa438af5ef7dee3 ""
   (generated)
-  "report.bcf"
-  "/Users/nikolawinata/Documents/SMPF/report.pdf"
-  "report.out"
-  "report.pdf"
-  "report.run.xml"
   "report.log"
-  "report.aux"
+  "report.out"
+  "report.bcf"
   "/Users/nikolawinata/Documents/SMPF/report.log"
+  "report.run.xml"
+  "/Users/nikolawinata/Documents/SMPF/report.pdf"
+  "report.aux"
+  "report.pdf"
